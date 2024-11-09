@@ -3,7 +3,7 @@
 
 This provides a set of experimental custom metarigs and a new rig types.
 
-There are no previous version of the extensions, but to use the latest version:
+Choose the [latest version]([https://linktr.ee/gianlucagiampuzzo](https://github.com/gianlugiampu/gian_extension_for_rigify/tags)):
 use `Code > Download ZIP` to obtain a ZIP archive of the code, and install it
 as a Feature Set through the Rigify Add-On settings.
 
